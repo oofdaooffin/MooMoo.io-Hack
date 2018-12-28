@@ -10,3 +10,7 @@ Recommended to use on dev.moomoo.io
 # Creators
 - pleikka132_OW on Twitter | Created This Repository
 - Slithere.com | Created The Script
+# Install:
+
+Userscript: [DOWNLOAD](https://github.com/oofdaooffin/MooMoo.io-Hack/raw/master/mod.user.js)
+Userscript Manager: [DOWNLOAD](https://tampermonkey.net)
