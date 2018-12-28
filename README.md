@@ -1,5 +1,6 @@
 # MooMoo.io-Hack
-Recommended to use on dev.moomoo.io
+- Recommended to use on dev.moomoo.io
+- Can be used on sandbox.moomoo.io
 # Features:
 - AutoHeal Keybind: T
 - AutoBull Mode Keybind: T
