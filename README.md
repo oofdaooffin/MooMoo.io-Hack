@@ -15,3 +15,5 @@
 
 - Userscript: [DOWNLOAD](https://github.com/oofdaooffin/MooMoo.io-Hack/raw/master/mod.user.js)
 - Userscript Manager: [DOWNLOAD](https://tampermonkey.net)
+# Instructions:
+- First you gotta download a Userscript Manager(download above), Then you gotta download the userscript(download above) Then, you gotta go to dev.moomoo.io so you can play solo, Thats all!
