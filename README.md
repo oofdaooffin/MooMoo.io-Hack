@@ -12,5 +12,5 @@ Recommended to use on dev.moomoo.io
 - Slithere.com | Created The Script
 # Install:
 
-Userscript: [DOWNLOAD](https://github.com/oofdaooffin/MooMoo.io-Hack/raw/master/mod.user.js)
-Userscript Manager: [DOWNLOAD](https://tampermonkey.net)
+- Userscript: [DOWNLOAD](https://github.com/oofdaooffin/MooMoo.io-Hack/raw/master/mod.user.js)
+- Userscript Manager: [DOWNLOAD](https://tampermonkey.net)
