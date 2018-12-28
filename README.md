@@ -1,6 +1,8 @@
 # MooMoo.io-Hack
 - Recommended to use on dev.moomoo.io
 - Can be used on sandbox.moomoo.io
+- Can be used on moomoo.io
+- This can apply to krunker.io
 # Features:
 - AutoHeal Keybind: T
 - AutoBull Mode Keybind: T
